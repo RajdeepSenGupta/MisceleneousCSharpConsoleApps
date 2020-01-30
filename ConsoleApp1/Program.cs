@@ -1,10 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.ComponentModel;
-using System.Data.SqlClient;
-using System.Diagnostics;
-using System.Linq;
-using System.Reflection;
 
 namespace ConsoleApp1
 {
@@ -13,7 +7,9 @@ namespace ConsoleApp1
         static void Main(string[] args)
         {
             //ConnectingMySql.ConnectingMySqlMain();
-            Fibonacci.FibonacciMain();
+            //Fibonacci.FibonacciMain();
+            //SortingTechniques.SortingTechniquesMain();
+            //SearchingTechniques.SearchingTechniquesMain();
 
             Console.ReadLine();
         }
